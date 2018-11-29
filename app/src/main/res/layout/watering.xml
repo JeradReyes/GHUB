@@ -9,7 +9,7 @@
     <ScrollView
         android:id="@+id/scrollView3"
         android:layout_width="399dp"
-        android:layout_height="680dp"
+        android:layout_height="594dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -47,7 +47,7 @@
             <TextView
                 android:id="@+id/textView6"
                 android:layout_width="354dp"
-                android:layout_height="wrap_content"
+                android:layout_height="62dp"
                 android:text="    Is the plant younger, or a newly grown, or an older one. Younger plants can be at most 4-5 years of age. Then they are categorised as older plants."
                 android:textSize="14sp" />
 
@@ -103,7 +103,7 @@
             <TextView
                 android:id="@+id/textView16"
                 android:layout_width="342dp"
-                android:layout_height="181dp"
+                android:layout_height="177dp"
                 android:text="    The best time of day to water is always in the morning. This gives the plant time to absorb the water and get ready to handle heat, cold, or just the energy it takes to produce chlorophyll, grow, and move nutrients around.If you water in the late afternoon or evening, the problem is that the plant is now wet and the air temperature is cool. Those are the best conditions for mildews, molds, and all kinds of disease problems. Keep life simple, water in the morning."
                 android:textSize="14sp" />
 

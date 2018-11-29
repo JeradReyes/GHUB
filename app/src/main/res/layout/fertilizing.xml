@@ -9,7 +9,7 @@
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="399dp"
-        android:layout_height="680dp"
+        android:layout_height="590dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -18,9 +18,10 @@
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.043"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.502">
 
 
         <LinearLayout
@@ -111,7 +112,7 @@
                 android:id="@+id/btn_start"
                 android:layout_width="133dp"
                 android:layout_height="wrap_content"
-                android:onClick="har_option"
+                android:onClick="fertile_option"
                 android:text="Back" />
 
         </LinearLayout>

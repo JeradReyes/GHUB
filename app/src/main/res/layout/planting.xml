@@ -9,7 +9,7 @@
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="399dp"
-        android:layout_height="680dp"
+        android:layout_height="594dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -68,7 +68,7 @@
             <TextView
                 android:id="@+id/textView10"
                 android:layout_width="342dp"
-                android:layout_height="181dp"
+                android:layout_height="193dp"
                 android:text="    Avoid digging or handling soil when it's wet to prevent compaction. Plants need a certain amount of space between soil particles for roots to grow. One test to see if soil can be worked is to dig a small sample of soil from a 3-inch hole. Squeeze it in your hand, then toss the soil onto a hard surface such as a rock or pavement. If the soil stays in a ball, it's too wet for planting. If it shatters, it's time to plant.  If you like, work a bit of time-release all-purpose balanced granular fertilizer with a ratio of 10-10-10 into the soil before planting."
                 android:textSize="14sp" />
 
@@ -112,14 +112,14 @@
             <TextView
                 android:id="@+id/textView16"
                 android:layout_width="342dp"
-                android:layout_height="181dp"
+                android:layout_height="155dp"
                 android:text="    As your flowering plants begin blooming, feel free to cut them for bouquets. Clip off the spent flower heads to encourage the plant to put more energy into its foliage and winter survival. Some flowers, including zinnias, dahlias, and others, bloom again when you remove the blooms.
                 Clip or pull any brown foliage for a cleaner look. Daylilies in particular benefit from the removal of old leaves."
                 android:textSize="14sp" />
 
             <Button
                 android:id="@+id/btn_start"
-                android:layout_width="match_parent"
+                android:layout_width="108dp"
                 android:layout_height="wrap_content"
                 android:onClick="plant_option"
                 android:text="Back" />
